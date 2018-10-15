@@ -1,0 +1,7 @@
+grade - check plus
+
+1 - Keep your code between #ifndef Fraction_h #define Fraction_h and #endif 
+2 - clean up unnecessary comments
+3 - Nice class instance variables and structure
+4 - You should have methods for add, subract, etc. instead of one long method with different code segments.
+5 - Overall - very nice!  You have clean code and a nicely functional console based fraction calculator.  
